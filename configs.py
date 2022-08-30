@@ -49,7 +49,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search!🔍 What You Want?😜
 
-<a>Made With ❤ By @Yuvi_4502</a></b>
+<a>Made With ❤ </a></b>
 """
 
 
