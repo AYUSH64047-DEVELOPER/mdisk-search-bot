@@ -15,41 +15,41 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL",)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/Mdisk_Links_Sender_Bot>Mdisk_Links_Sender_Bot</a>
+🤖<i> My Name</i>: <a href='https://t.me/Mdisk_Links_Sender_Bot>Mdisk_Links_Sender_Bot</a>
 
-📝 Language : <a href='https://www.python.org'> Python V3</a>
+📝<i> Language </i> : <a href='https://www.python.org'> Python V3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+📚<i> Library</i>: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡<i> Server</i>: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/Z_Harbour_bot'>ʏᴜᴠʀᴀᴊ</a></b>
+👨‍💻<i> Created By</i>: <a href='https://t.me/Z_Harbour_bot'>sigma_male007</a> </b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Z_Harbour_bot'>ʏᴜᴠʀᴀᴊ</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer<i></u>: <a href='https://t.me/Z_Harbour_bot'> sigma_male007 </u></i></a>
 
-If You Want Your Own Bot Like This Then You Can Contact Our Developer @Z_Harbour_bot.</b>
+If You Want Your Own Bot Like This Then You Can Contact Our Developer @Z_Harbour_bot </b>
 """
 
     HOME_TEXT = """
-<b>Hey! {}😅,
+<b>Hello {} Darling 🥰,
 
-I'm Mdisk Search Robot.🤖</a>
+I'm Mdisk Search Robo😛</a>
 
-I Can Search!🔍 What You Want?😜
+I Can Search Any Stuff!🔍 What do You Want?Just Drop A Name!☺️
 
-<a>Made With ❤ By @Z_Harbour_bot</a></b>
+<a>Co-devloper @Z_Harbour_bot🌷</a></b>
 """
 
 
     START_MSG = """
-<b>Hey! {}😅,
+<b>Hello Dear {}😍,
 
-I'm Mdisk Search Robot.🤖</a>
+I'm Mdisk Search Robo</a>
 
-I Can Search!🔍 What You Want?😜
+I Can Search Any Mobi-Series-Shows! And Can Provide You Direct Mdisk Links! 
 
-<a>Made With ❤ </a></b>
+<a>Myh Father @sigma_male007❤ </a></b>
 """
 
 
