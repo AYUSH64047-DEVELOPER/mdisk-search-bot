@@ -17,24 +17,25 @@ class Config(object):
 
 🤖<i> My Name</i>: <a href='https://t.me/Mdisk_Links_Sender_Bot>Mdisk_Links_Sender_Bot</a>
 
-📝<i> Language </i> : <a href='https://www.python.org'> Python V3</a>
+📝<i> Language </i> : <a href='https://www.python.org'> Python V3 </a>
 
-📚<i> Library</i>: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+📚<i> Library</i>: <a href='https://docs.pyrogram.org'> Pirogram </a>
 
-📡<i> Server</i>: <a href='https://heroku.com'>Heroku</a>
+📡<i> Server</i>: <a href='https://heroku.com'> Heroku+Github </a>
 
-👨‍💻<i> Created By</i>: <a href='https://t.me/Z_Harbour_bot'>sigma_male007</a> </b>
+👨‍💻<i> Created By</i>: <a href='https://t.me/Z_Harbour_bot'> Z_Harbour_bot </a> </b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer<i></u>: <a href='https://t.me/Z_Harbour_bot'> sigma_male007 </u></i></a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer: <a href='https://t.me/Z_Harbour_bot'> Z_Harbour_bot </a> </b>
 
-If You Want Your Own Bot Like This Then You Can Contact Our Developer @Z_Harbour_bot </b>
+If You Want Bot Source Code Purchase It From The Developer @Z_Harbour_bot </b>
 """
 
     HOME_TEXT = """
-<b>Hello {} Darling 🥰,
 
-I'm Mdisk Search Robo😛</a>
+<b>Hello {} Dear🥰,
+
+<a>I'm Mdisk Search Robo😛</a>
 
 I Can Search Any Stuff!🔍 What do You Want?Just Drop A Name!☺️
 
@@ -43,13 +44,13 @@ I Can Search Any Stuff!🔍 What do You Want?Just Drop A Name!☺️
 
 
     START_MSG = """
-<b>Hello Dear {}😍,
+<b>Hello Dear {}☺️,
 
-I'm Mdisk Search Robo</a>
+<a>I'm Mdisk Search Robo</a>
 
-I Can Search Any Mobi-Series-Shows! And Can Provide You Direct Mdisk Links! 
+<i> I Can Search Any Mobi-Series-Shows! And Can Provide You Direct Mdisk Links! If Found On My Database:) </i>
 
-<a>Myh Father @sigma_male007❤ </a></b>
+<a>My Father👨‍👦 @Z_Harbour_bot❤😊 </a></b>
 """
 
 
