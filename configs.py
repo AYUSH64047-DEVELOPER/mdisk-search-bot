@@ -21,36 +21,35 @@ class Config(object):
 
 📚 Library: <a href='https://docs.pyrogram.org'> Pirogram </a>
 
-📡 Server: <a href='https://heroku.com'> Heroku+Github </a>
+📡 Server: <a href='https://heroku.com'> Heroku/Github </a>
 
-👨‍💻 Created By: <a href='https://t.me/Z_Harbour_bot'> Z_Harbour_bot </a> </b>
+👨‍💻 Developed By: <a href='https://t.me/Z_Harbour_bot'> Z_Harbour_bot </a> </b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer: <a href='https://t.me/Z_Harbour_bot'> Z_Harbour_bot </a> </b>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer: Anonymous </b>
 
-<u>If You Want Bot Source Code Purchase It From The Developer.</b> </u>
+<u> Source Code Is Private For Privacy</b> </u>
 """
 
     HOME_TEXT = """
 
-<b>Hello {} Dear🥰,
+<b>Hello Dear {} 😘
 
-<a>I'm Mdisk Search Robo😛</a>
+<a>I'm Mdisk Search Robo</a>
 
 I Can Search Any Stuff!🔍 What do You Want?Just Drop A Name!☺️
 
-<a>Co-devloper @Z_Harbour_bot🌷</a></b>
 """
 
 
     START_MSG = """
-<b>Hello Dear {}☺️,
+<b>Hello Dear {} 😘
 
-<a>I'm Mdisk Search Robo</a>
+<a>I'm Mdisk Search Robo</a></b>
 
 <i> I Can Search Any Mobi-Seriez-Showz! And Can Provide You Direct Mdisk Links! If Found On My Database:) </i>
 
-<a> If You Didn't Find Your Query Then Please Request in D.M_ing My Father👨‍👦@Z_Harbour_bot❤😊 </a></b>
+<a> If You Didn't Find Your Query Then Please Request on @blackest_harbour❤😊 </a>
 """
 
 
